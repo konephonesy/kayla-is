@@ -1,4 +1,4 @@
-# kayla onephonesy's cal pooly pomona github
+# kayla onephonesy's cal poly pomona github
 ## projects:
 
 1. [retail analytics](https://linkmehere.com)
